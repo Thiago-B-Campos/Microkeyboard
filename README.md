@@ -18,9 +18,9 @@ I am making a micro keyboard in the QWERTY standard. The goal is to have at leas
 
 ###BOM:
 
-*12x Cherry MX Switches
-*1x XIAO RP2040
-*12x Keycaps
-*1x Alps EC11E Rotary Encoder/Switch
-*4x M3x16mm screws
-*1x 3D Printed Case (2 parts)
+-12x Cherry MX Switches
+-1x XIAO RP2040
+-12x Keycaps
+-1x Alps EC11E Rotary Encoder/Switch
+-4x M3x16mm screws
+-1x 3D Printed Case (2 parts)
