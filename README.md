@@ -14,7 +14,7 @@ I am making a micro keyboard in the QWERTY standard. The goal is to have at leas
 ![PCB](Assets/pcb.PNG)
 
 ### Case
-![Case](Assets/MicroKeyboard v8.png)
+![Case](Assets/MicroKeyboardv8.png)
 
 ###BOM:
 
