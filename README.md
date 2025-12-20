@@ -16,7 +16,7 @@ I am making a micro keyboard in the QWERTY standard. The goal is to have at leas
 ### Case
 ![Case](Assets/MicroKeyboard%20v8.png)
 
-###BOM:
+### BOM:
 
 - 12x Cherry MX Switches
 - 1x XIAO RP2040
