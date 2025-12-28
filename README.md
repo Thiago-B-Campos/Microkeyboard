@@ -19,7 +19,7 @@ I am making a micro keyboard in the QWERTY standard. The goal is to have at leas
 ### Case - Shell
 ![CaseShell](Assets/MicroKeyboard%20v8-cad.png)
 ![CaseShell2](Assets/MicroKeyboard%20v8-shell.png)
-![CaseShell3](Assets/MicroKeyboard v8 -sep.png)
+![CaseShell3](Assets/MicroKeyboard%20v8%20-sep.png)
 
 ### BOM:
 
