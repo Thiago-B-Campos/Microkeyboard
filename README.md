@@ -16,6 +16,9 @@ I am making a micro keyboard in the QWERTY standard. The goal is to have at leas
 ### Case
 ![Case](Assets/MicroKeyboard%20v8.png)
 
+### Case - Shell
+![CaseShell](Assets/MicroKeyboard%20v8-cad.png)
+
 ### BOM:
 
 - 11x Cherry MX Switches
